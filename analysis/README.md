@@ -1,3 +1,12 @@
 all jupyter notebook files should be in this parent directory
 ---
-insert **content** *here*
+**TASK 5**
+*Josie Leung's Analysis*
+
+In Task 4, I created 3 scatterplots for data visualization.
+
+The first scatterplot was to compare between review_scores_rating and number_of_reviews. This allows me to have a visualization of which Airbnb location has the highest review score and the highest number of reviews. On first look, I noticed an "outlier" which had over 700 reviews and a review of between 90 to 100. On closer look at the dataset, I discovered that this Airbnb location had a score of 96 and a total of 757 reviews. This leads me to believe that this location could be the best Airbnb location in terms of number of reviews and highest score. Having a high number of reviews means that a lot of people have stayed at this location and have had a significant impression. Having a high score means that a lot of people have had a good experience at this location. There is no other Airbnb location which can match the same number of reviews and have such a high score, therefore I strongly believe that this is the best Airbnb location based on these two attributes.
+
+The second scatterplot was to compare between review_scores_rating and accomodates. This allows me to have a visualization of which Airbnb location has the highest review score and can accomodate the most people. On first look, I noticed the highest review score of 100 was given for an Airbnb location which can accomodate the highest number of people (16). On closer look at the dataset, I was able to find this Airbnb location. This leads me to conclude that this location definitely has the highest score and can accomodate the most people.
+
+The third scatterplot was to compare between review_scores_rating and reviews_per_month. This allows me to have a visualization of which Airbnb location has the highest review score and has the most number of impressions per month, which could indicate high occupancy rate. This provides me with slightly more information than the first scatterplot. The first scatterplot informs me of the number of reviews over a period of time, but for certain Airbnb locations, it could be a longer period of time as it depends on when the Airbnb location was established. By looking at reviews_per_month, it can provide me with a more accurate figure of how popular the Airbnb location is based on the period at which it has been established. I noticed an Airbnb location that has a relatively high score (90 - 100) and the highest number of reviews_per_month. This allows me to believe that this is the best Airbnb location based on number of reviews and period at which it has been established.
