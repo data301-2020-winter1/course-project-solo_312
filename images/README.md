@@ -1,3 +1,3 @@
-any external images you use should be in this directory
+Introduction to Images Director
 ---
-insert **content** *here*
+Any *external images* I use should be in this directory. **I will add more directories within this directory whenever necessary.**
