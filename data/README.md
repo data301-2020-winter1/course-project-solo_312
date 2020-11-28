@@ -1,4 +1,3 @@
-
-all my data should go in this parent directory; a final data set may reside in this directory
+Introduction to Data Directory
 ---
-insert **content** *here*
+This directory is assigned for all my data to go into. A final data set may reside in this directory.
