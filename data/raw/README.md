@@ -1,3 +1,3 @@
-raw data should go in this directory
+Introduction to Dataset
 ---
-insert **content** *here*
+The dataset contains *11187 rows of data* for **many different Airbnb options in Hong Kong**. There are many fields for String types such as house rules, transit, name, summary, location, space, access, interactions, host about etc. These are difficult to compare with one another due to the wide variety of different responses for each String type. However, there are some Strings which are easier to compare, such as property type, room type, amenities, location, cancellation policy, whether the host is superhost etc. These have more fixed number of responses and it is easier to measure these fields on a scale and compare them to decide which option is the best. Lastly, there are number fields for reviews, price, cleaning fee, host acceptance rate, host response rate, reviews per month etc. I can also use these number fields to compare the different options with one another and decide which option is the best.
