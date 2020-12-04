@@ -6,6 +6,7 @@
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+
 **Milestone 4 link: https://drive.google.com/file/d/1uiqIsLWgVRW9w89-FUKV0pja3rpr2p1c/view?usp=sharing**
 
 ## Describe your topic/interest in about 150-200 words
